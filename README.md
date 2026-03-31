@@ -34,3 +34,6 @@ Cisco
 Certificate
 <img width="8086" height="5478" alt="Getting_Started_with_Cisco_Packet_Tracer_certificate_pattadon-kh-kkumail-com_d127095e-0970-4fcb-ad3d-cbe37bf2d9cf" src="https://github.com/user-attachments/assets/791c20ad-cf64-47b6-b4a6-70f9c6af2de3" />
 
+
+<img width="6446" height="4367" alt="CCNA-_Introduction_to_Networks_certificate_pattadon-kh-kkumail-com_4227e34c-9180-4f59-96f6-3c7724c09212" src="https://github.com/user-attachments/assets/05a56810-6c5e-466e-94fc-69e357768b1f" />
+
